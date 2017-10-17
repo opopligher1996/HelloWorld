@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	 System.out.println("You should be able to see this text ");
 	 System.out.println("on screen");
 	 System.out.println("How about this text?");
-	 System.out.println("Can you see the effect?");
+	 System.out.println("Hi");
 
 }
 }
